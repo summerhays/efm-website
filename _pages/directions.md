@@ -3,11 +3,10 @@ title: Sunday Meeting
 lang: en
 trans: directions
 ---
-{% comment %}![Quaker banner](/assets/images/mtl_homepage3.jpg){: class="img_center100"}{% endcomment %}
 <picture>
-  <source srcset="/assets/images/mtl_homepage3.webp" type="image/webp"> 
-  <source srcset="/assets/images/mtl_homepage3.jpg" type="image/jpg">
-  <img src="/assets/images/mtl_homepage3.webp" class="img_center100" alt="Holding banner Quakers for Peace">
+  <source srcset="/assets/images/tapestry.webp" type="image/webp"> 
+  <source srcset="/assets/images/tapestry.jpg" type="image/jpg">
+  <img src="/assets/images/tapestry.webp" class="img_center100" alt="Tapestry for peace, equity, and justice">
 </picture>
 
 ## Address
