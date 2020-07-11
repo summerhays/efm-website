@@ -15,18 +15,11 @@ en:
 - title: Find Us
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
-    - subtitle: Sundays in Montreal
+    - subtitle: Sundays
       sublink: /directions
-    - subtitle: Midweek in Montreal
-      subhovertitle: Midweek Meeting in Montreal
+    - subtitle: Midweek
+      subhovertitle: Midweek Meeting
       sublink: /midweek
-    - subtitle: Quebec City
-      sublink: /qc
-    - subtitle: South Shore
-      sublink: /south_shore
-    - subtitle: Laurentians
-      subhovertitle: Laurentian Worship Group
-      sublink: /laurentians
 #    - subtitle: Accessibility
 #      subhovertitle: Accessibility information for our places of worship
 #      sublink: /accessibility
@@ -49,56 +42,7 @@ en:
   link: /contact
   icon: <i class='far fa-envelope-open'></i>
 
-fr:
-- title: Première fois
-  icon: <i class="far fa-hand-paper"></i>
-  link: /intro-fr
-#  {% comment %}<i class='far fa-address-card'></i>{% endcomment %}
-  submenu:
-    - subtitle: Déroulement
-      sublink: /à_propos
-    - subtitle: Introduction aux Quakers
-      sublink: /intro-fr
-    - subtitle: Nos valeurs (les témoignages)
-      sublink: /témoignages
-    - subtitle: Liens et histoire
-      sublink: /liens_histoire
-- title: Nous trouver
-  icon: <i class='fas fa-map-marker-alt'></i>
-  submenu:
-    - subtitle: Dimanche à Montréal
-      sublink: /coordonnées
-    - subtitle: Mi-semaine à Montréal
-      sublink: /mi-semaine
-    - subtitle: À Québec
-      sublink: /québec
-    - subtitle: Rive-Sud
-      sublink: /rive-sud
-    - subtitle: Laurentides
-      sublink: /laurentides
-- title: Nouvelles
-  hovertitle: Nos mises à jour
-  link: /nouvelles
-  icon: <i class='fas fa-rss'></i>
-  # - title: Programmation
-  #   link: /calendrier
-  #   icon: <i class='far fa-calendar-alt'></i>
-- title: Étape suivante
-  hovertitle: Des informations pour mieux s'intégrer dans notre communauté
-  link: /nouveau/
-  icon: <i class="fas fa-arrow-circle-right fa-fw"></i>
-# - title: Calendar
-- title: Donner
-  link: /don
-  icon: <i class='fas fa-coins'></i>
-- title: Contact
-  link: /contact-fr
-  icon: <i class='far fa-envelope-open'></i>
-
 welcome:
-- title: Bienvenue
-  link: /index-fr
-  lang: fr
 - title: Welcome
   link: /index-en
   lang: en
@@ -106,23 +50,9 @@ welcome:
 footer-en: 
 - title: Home
   link: /index-en
-- title: Accueil
-  link: /index-fr
 - title: About
   link: /intro
 - title: Accessibility
   link: /accessibility
 - title: Contact
   link: /contact
-
-footer-fr:
-- title: Accueil
-  link: /index-fr
-- title: Home
-  link: /index-en
-- title: À propos
-  link: /intro-fr
-- title: Accessibilité
-  link: /accessibilité
-- title: Contact
-  link: /contact-fr
