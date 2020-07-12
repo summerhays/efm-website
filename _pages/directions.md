@@ -11,22 +11,21 @@ trans: directions
 
 ## Address
 
-[1090 Greene, Westmount, QC, H3Z 1Z9](https://www.google.com/maps/search/1090%20Greene,%20Westmount,%20QC,%20H3Z%201Z9){: rel="noopener" target="_blank"}
+[1010 Greenleaf, Evanston, IL 60202](https://www.google.com/maps/place/1010+Greenleaf+St,+Evanston,+IL+60202,+USA/@42.0373406,-87.6879217,17z/data=!3m1!4b1!4m5!3m4!1s0x880fd017a8c06df1:0xa62ec3fc7f786007!8m2!3d42.0373406!4d-87.685733){: rel="noopener" target="_blank"}
 
-* Near **Lionel-Groulx and Atwater metros** (Lionel-Groulx is slightly closer)
-* **Parking** available behind the Greene Centre
-* Please note that the Greene Centre is a **nut-free environment**. We are working toward becoming a **scent-reduced meeting**.
+* Near **Dempster and Main stations** (Dempster is slightly closer)
+* **Parking** available on the street, handicap parking in front
 
-We meet in the sunroom on the Greene Centre's main floor. All are welcome.
+We meet on the first floor, elevator access is available. All are welcome.
 
 ## Time
 
-Quaker silent Meeting for Worship is every Sunday from **11:00 a.m. to noon**. We suggest arriving a few minutes before 11:00 but we much prefer your company to your absence! Childcare is available but if possible please do give us a few days [notice](/contact.html).
+Quaker silent Meeting for Worship is every Sunday from **10:30 a.m. to 11:30 a.m.**. We suggest arriving a few minutes before 10:30 but we much prefer your company to your absence! Childcare and First Day School (what we call Sunday School) is available. Feel free to write for more information [notice](/contact.html).
 
 If this will be your first time at a Quaker Meeting, you may want to read [this information](/about.html) about what to expect.
 
 ## [Accessibility](/accessibility)
 
-Our worship space is **wheelchair accessible** via the front ramp and the rear entrance of the Greene Centre; the Greene Centre has an accessible washroom and handicap parking behind the building.
+Our worship space is **wheelchair accessible** via the side entrance; we have an accessible washroom and handicap parking in front of the building.
 
 See our [accessibility page](/accessibility) for more information or [contact us](/contact) with any questions

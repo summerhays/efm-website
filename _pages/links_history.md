@@ -29,16 +29,3 @@ trans: links_history
 * [The Canadian Friend](https://quaker.ca/resources/the-canadian-friend/){: rel="noopener" target="_blank"} - the magazine of Canadian Yearly Meeting, available online. 
 * [Canadian Young Friends Yearly Meeting](http://yf.quaker.ca){: rel="noopener" target="_blank"}, focused on Young Friends (13-18) and Young Adult Friends (18-35). 
 * [Quaker Earthcare Witness](https://www.quakerearthcare.org/){: rel="noopener" target="_blank"} ([video](https://www.youtube.com/watch?v=5GBZUEeX1M0){: rel="noopener" target="_blank"})
-
-## History of the meeting
-* [A Look Backwards at Montreal Monthly Meeting, by Molly Walsh](/assets/PDF/MMM-History-CF.V100.05.13-14.pdf){: rel="noopener" target="_blank"} 
-* [Petit à petit, l’oiseau fait son nid, par Chantal Fournier](/assets/PDF/MMM-History-CF.V100.05.15.pdf){: rel="noopener" target="_blank"}
-* [Women's Speaking](http://www.qhpress.org/texts/fell.html){: rel="noopener" target="_blank"} has some texts by notable Quaker women, for instance, one of the founders of Quakerism, Margaret Fell.
-* [History of Montreal Meeting (1929-1964) Lloyd Williams](/assets/PDF/MMM_history-Lloyd-Williams.pdf){: rel="noopener" target="_blank"}
-
-### Our previous meetinghouse on de Maisonneuve
-<picture>
-  <source srcset="/assets/images/1974_MaisW_1.webp" type="image/webp">
-  <source srcset="/assets/images/1974_MaisW_1.jpg" type="image/jpg">
-  <img src="/assets/images/1974_MaisW_1.webp" class="img_center75" alt="Our previous meetinghouse on de Maisonneuve">
-</picture>
