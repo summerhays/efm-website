@@ -12,14 +12,15 @@ en:
       sublink: /testimonies
     - subtitle: Links and History
       sublink: /links_history
-- title: Find Us
+#- title: Find Us
+#  icon: <i class='fas fa-map-marker-alt'></i>
+#  submenu:
+- title: Directions
   icon: <i class='fas fa-map-marker-alt'></i>
-  submenu:
-    - subtitle: Sundays
-      sublink: /directions
-    - subtitle: Midweek
-      subhovertitle: Midweek Meeting
-      sublink: /midweek
+  link: /directions
+#    - subtitle: Midweek
+#      subhovertitle: Midweek Meeting
+#      sublink: /midweek
 #    - subtitle: Accessibility
 #      subhovertitle: Accessibility information for our places of worship
 #      sublink: /accessibility
